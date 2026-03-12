@@ -28,6 +28,7 @@ AI Engineer building production-ready AI systems — multi-agent architectures, 
 | [**devclaw**](https://github.com/jholhewres/devclaw) | AI agent for tech teams. Single Go binary with CLI, WebUI, MCP server, and messaging channels. 70+ built-in tools, persistent memory, encrypted vault. | ![Stars](https://img.shields.io/github/stars/jholhewres/devclaw?style=flat-square) |
 | [**devclaw-skills**](https://github.com/jholhewres/devclaw-skills) | Skills repository for the DevClaw AI agent | ![Stars](https://img.shields.io/github/stars/jholhewres/devclaw-skills?style=flat-square) |
 | [**agent-go**](https://github.com/jholhewres/agent-go) | High-performance multi-agent system framework based on Go | ![Stars](https://img.shields.io/github/stars/jholhewres/agent-go?style=flat-square) |
+| [**whatsgo-api**](https://github.com/jholhewres/whatsgo-api) | WhatsApp REST API multi-instance built with Go and whatsmeow | ![Stars](https://img.shields.io/github/stars/jholhewres/whatsgo-api?style=flat-square) |
 
 ---
 
@@ -37,7 +38,6 @@ AI Engineer building production-ready AI systems — multi-agent architectures, 
 |---|---|
 | [**integrabot.ai**](https://integrabot.ai) | AI-powered automation and chatbot platform |
 | [**integraclaw.dev**](https://integraclaw.dev) | Integration hub — centralized multi-provider OAuth proxy and connector platform |
-| [**whatsgo-api**](https://github.com/jholhewres/whatsgo-api) | WhatsApp REST API multi-instance built with Go and whatsmeow |
 
 ---
 
