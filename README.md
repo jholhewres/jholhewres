@@ -1,7 +1,7 @@
 <h1 align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=hey%2C+i'm+jhol+hewres;ai+engineer+%7C+multi-agent+architecture;RAG+%26+LLMOps+%7C+production-ready+ai+systems">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=650&lines=hey%2C+i'm+jhol+hewres;ai+engineer+%7C+multi-agent+architecture;RAG+%26+LLMOps+%7C+production-ready+ai+systems" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=hey%2C+i'm+jhol+hewres.">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00ADD8&center=true&vCenter=true&width=435&lines=hey%2C+i'm+jhol+hewres." alt="Typing SVG" />
   </picture>
 </h1>
 
