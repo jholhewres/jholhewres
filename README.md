@@ -27,7 +27,6 @@ AI Engineer building production-ready AI systems — multi-agent architectures, 
 ### open source
 
 - **[devclaw](https://github.com/jholhewres/devclaw)** — AI agent for tech teams. Single Go binary with CLI, WebUI, MCP server, and messaging channels. 70+ built-in tools, persistent memory, encrypted vault
-- **[devclaw-skills](https://github.com/jholhewres/devclaw-skills)** — Skills repository for the DevClaw AI agent
 - **[agent-go](https://github.com/jholhewres/agent-go)** — High-performance multi-agent system framework based on Go
 - **[whatsgo-api](https://github.com/jholhewres/whatsgo-api)** — WhatsApp REST API multi-instance built with Go and whatsmeow
 
