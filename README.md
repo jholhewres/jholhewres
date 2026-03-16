@@ -34,7 +34,6 @@ AI Engineer building production-ready AI systems — multi-agent architectures, 
 
 ### side projects
 
-- **[integrabot.ai](https://integrabot.ai)** — AI-powered automation and chatbot platform
 - **[integraclaw.dev](https://integraclaw.dev)** — Integration hub — centralized multi-provider OAuth proxy and connector platform
 
 ---
